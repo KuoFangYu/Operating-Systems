@@ -3,6 +3,7 @@ import numpy as np
 import queue as Q
 from operator import itemgetter, attrgetter
 
+
 def Readfile(data, t_slice, command):
     filename = input("輸入檔名:")
     filename += ".txt"
