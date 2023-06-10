@@ -23,16 +23,17 @@ HW2 程式須實現以下五個處理原則
 5.處理原則一HRRN (Highest Response Ratio Next)
 
 
+
 HW3 程式須實現以下PageReplacement方法
 
-1. First In First Out (FIFO)
+1.First In First Out (FIFO)
 
-2.  Least Recently Used (LRU)
+2.Least Recently Used (LRU)
 
-3. Least Frequently Used (LFU) + FIFO
+3.Least Frequently Used (LFU) + FIFO
 
 4.Most Frequently Used (MFU) + FIFO
 
-5. LFU + LRU
+5.LFU + LRU
 
-6. MFU + LRU
+6.MFU + LRU
