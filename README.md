@@ -15,8 +15,8 @@ HW2 程式須實現以下五個處理原則
 
 2.處理原則一RR
 
-3.處理原則-SRTF
+3.處理原則一SRTF
 
 4.處理原則一PPRR (Preemptive Priority + Round Robin)
 
-5.處理原則-HRRN (Highest Response Ratio Next)
+5.處理原則一HRRN (Highest Response Ratio Next)
