@@ -5,6 +5,7 @@ import time
 from queue import Queue
 from datetime import datetime
 
+
 def bubblesort(data):
     for i in range(0, len(data) - 1):
         quit = False
