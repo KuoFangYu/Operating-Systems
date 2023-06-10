@@ -1,3 +1,6 @@
+import string
+import numpy as np
+
 def Readfile():
     filename = input("輸入檔名 : ")
     filename += ".txt"
