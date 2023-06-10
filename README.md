@@ -11,6 +11,7 @@ HW1 程式須實現以下四種方法
 
 HW2 程式須實現以下五個處理原則
 
+
 1.處理原則一FCFS
   a.依ArrivalTime先後次序進行排程;
   b.若Arrival Time相同時,則依ProcessID由小至大依序處理。
