@@ -9,6 +9,7 @@ HW1 程式須實現以下四種方法
 4.將個數目字切成K份,在一個process內對K份資料進行BubbleSort之後,再用同一個process作MergeSort,並顯示CPU執行之時間
 
 
+
 HW2 程式須實現以下五個處理原則
 
 1.處理原則一FCFS
@@ -20,3 +21,19 @@ HW2 程式須實現以下五個處理原則
 4.處理原則一PPRR (Preemptive Priority + Round Robin)
 
 5.處理原則一HRRN (Highest Response Ratio Next)
+
+
+
+HW3 程式須實現以下PageReplacement方法
+
+1. First In First Out (FIFO)
+
+2.  Least Recently Used (LRU)
+
+3. Least Frequently Used (LFU) + FIFO
+
+4.Most Frequently Used (MFU) + FIFO
+
+5. LFU + LRU
+
+6. MFU + LRU
