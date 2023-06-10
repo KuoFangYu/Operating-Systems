@@ -1,4 +1,4 @@
-HW1 程式須實現以下四種方法
+#HW1 程式須實現以下四種方法
 
 1.將N個數目字直接進行BubbleSort,並顯示CPU執行之時間。
 
@@ -10,7 +10,7 @@ HW1 程式須實現以下四種方法
 
 
 
-HW2 程式須實現以下五個處理原則
+#HW2 程式須實現以下五個處理原則
 
 1.處理原則一FCFS
 
@@ -24,7 +24,7 @@ HW2 程式須實現以下五個處理原則
 
 
 
-HW3 程式須實現以下PageReplacement方法
+#HW3 程式須實現以下PageReplacement方法
 
 1.First In First Out (FIFO)
 
