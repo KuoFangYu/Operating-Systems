@@ -1,5 +1,3 @@
-It stores the programming assignments of all operating system courses
-
 HW1 程式須實現以下四種方法
 
 1.將N個數目字直接進行BubbleSort,並顯示CPU執行之時間。
